@@ -25,14 +25,14 @@ while opc != 4:
                 greater = age[i]
                 j = i
 
-        print("The oldest is:", name[j], "with", greater, " years")
+        print("The oldest is:", name[j], "with", greater, "years")
 
         for i in range(5):
             if age[i] < lower:
                 lower = age[i]
                 k = i
 
-        print("The youngest is: ", name[k], "with", lower, " years")
+        print("The youngest is: ", name[k], "with", lower, "years")
 
         avg = sum(age) / len(age)
         print("The age's average is: ", avg)
