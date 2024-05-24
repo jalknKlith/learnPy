@@ -1,4 +1,4 @@
-# PYTHON Algorithms
+# pyp Algorithms
 
 This repository contains a collection of Python algorithms for various problems.
 
