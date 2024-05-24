@@ -5,7 +5,7 @@ This repository contains a collection of Python algorithms for various problems.
 - **6num1to45.py:** Generates 6 random numbers between 1 and 45.
 - **DBnameAge.py:** Calculates the number of days between two dates.
 - **IFcalculator.py:** Simple calculator using if statements.
-- **TSEGame.py:** Simulates the TSE (Turkish Stock Exchange) game.
+- **TSEGame.py:** Simulates the TSE (Tiger, snake and eagle) game.
 - **caseIncreaSalary.py:** Calculates the salary increase based on the percentage increase.
 - **countDown.py:** Counts down from a given number to 0.
 - **dial.py:** Simulates a rotary dial phone.
