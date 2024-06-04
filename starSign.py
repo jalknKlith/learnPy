@@ -1,3 +1,4 @@
+# Make a program to check the star sign
 month = int(input("Enter your brith month (1-12): "))
 day = int(input("enter your birth day (1-31): "))
 
